@@ -31,6 +31,7 @@ Visualisasi ini memuat semua informasi dalam satu dimensi atau tampilan sehingga
 
 
 Bad Data Visualization
+
 ![Picture2](https://github.com/user-attachments/assets/28fb3f67-eea6-4601-82df-7de2a8b0c2f2)
 
 key : 
