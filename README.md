@@ -6,6 +6,7 @@ Good Data Visualization
 ![Picture1](https://github.com/user-attachments/assets/d12fb0df-6012-4e25-8968-295cc1b75371)
 
 https://finereport.com/id/visualisasi-data/31-software-visualisasi-data-yang-perlu-anda-ketahui/
+
 •	Sumber daya utama yang pada pariwisata di  Dunhuang
 
 •	Lalu lintas website
